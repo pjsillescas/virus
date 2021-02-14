@@ -13,3 +13,5 @@ Saved
 *.xcodeproj
 *.xcworkspace
 Content/MobileStarterContent
+*.blend1
+*.fbx
